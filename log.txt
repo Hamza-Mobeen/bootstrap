@@ -3,3 +3,4 @@
 0440. 📚 docs: update README with setup steps
 0332. 🎨 style: standardize quote style
 0207. 🐛 fix: prevent crash on empty input
+0824. 🚀 perf: lazy-load components
