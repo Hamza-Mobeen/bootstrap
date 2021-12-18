@@ -5,3 +5,4 @@
 0207. 🐛 fix: prevent crash on empty input
 0824. 🚀 perf: lazy-load components
 0619. ✨ feat: create admin dashboard
+0195. 📚 docs: clarify environment setup
