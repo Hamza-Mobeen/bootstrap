@@ -399,3 +399,4 @@
 0959. 🐛 fix: fix null pointer exception on login
 0374. 🎨 style: standardize quote style
 0514. 🐛 fix: fix broken CSS in mobile view
+0189. 📚 docs: clarify environment setup
