@@ -202,3 +202,4 @@
 0697. ♻️ chore: bump dependencies
 0565. ♻️ chore: add GitHub actions badge
 0962. ✨ feat: create admin dashboard
+0945. ♻️ chore: add GitHub actions badge
