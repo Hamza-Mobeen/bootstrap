@@ -203,3 +203,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0962. ✨ feat: create admin dashboard
 0945. ♻️ chore: add GitHub actions badge
+0931. 🚀 perf: reduce image load time
