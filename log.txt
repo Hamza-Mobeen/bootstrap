@@ -9,3 +9,4 @@
 0910. 🎨 style: remove trailing whitespace
 0536. ✨ feat: add user authentication
 0147. ♻️ chore: bump dependencies
+0591. ♻️ chore: clean up unused files
