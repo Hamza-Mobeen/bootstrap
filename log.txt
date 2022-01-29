@@ -403,3 +403,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0874. 🔧 refactor: split large controller into smaller functions
 0188. 🎨 style: apply consistent indentation
+0312. ✨ feat: add user authentication
