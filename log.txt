@@ -404,3 +404,4 @@
 0874. 🔧 refactor: split large controller into smaller functions
 0188. 🎨 style: apply consistent indentation
 0312. ✨ feat: add user authentication
+0257. 📚 docs: clarify environment setup
