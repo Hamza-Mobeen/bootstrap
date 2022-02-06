@@ -405,3 +405,4 @@
 0188. 🎨 style: apply consistent indentation
 0312. ✨ feat: add user authentication
 0257. 📚 docs: clarify environment setup
+0117. ✅ test: increase coverage on auth module
