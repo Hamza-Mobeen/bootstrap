@@ -207,3 +207,4 @@
 0264. 🚀 perf: optimize database query for quiz results
 0956. 📚 docs: clarify environment setup
 0419. 🎨 style: remove trailing whitespace
+0804. ♻️ chore: add GitHub actions badge
