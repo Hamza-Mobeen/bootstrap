@@ -209,3 +209,4 @@
 0419. 🎨 style: remove trailing whitespace
 0804. ♻️ chore: add GitHub actions badge
 0811. 🎨 style: reformat files with black
+0571. 🔧 refactor: clean up auth middleware
