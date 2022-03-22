@@ -211,3 +211,4 @@
 0811. 🎨 style: reformat files with black
 0571. 🔧 refactor: clean up auth middleware
 0902. ✨ feat: enable dark mode toggle
+0412. ✅ test: increase coverage on auth module
