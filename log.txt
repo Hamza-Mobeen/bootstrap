@@ -409,3 +409,4 @@
 0559. 🔧 refactor: split large controller into smaller functions
 0687. 🎨 style: remove trailing whitespace
 0909. 🔧 refactor: organize models into subfolders
+0378. 🐛 fix: prevent crash on empty input
