@@ -410,3 +410,4 @@
 0687. 🎨 style: remove trailing whitespace
 0909. 🔧 refactor: organize models into subfolders
 0378. 🐛 fix: prevent crash on empty input
+0936. 🔧 refactor: organize models into subfolders
