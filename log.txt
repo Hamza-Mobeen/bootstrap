@@ -411,3 +411,4 @@
 0909. 🔧 refactor: organize models into subfolders
 0378. 🐛 fix: prevent crash on empty input
 0936. 🔧 refactor: organize models into subfolders
+0291. 📚 docs: write FAQ section
