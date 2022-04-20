@@ -24,3 +24,4 @@
 0071. 🔧 refactor: refactor quiz grading logic
 0401. 🚀 perf: reduce image load time
 0566. 📚 docs: write FAQ section
+0976. ✨ feat: implement quiz timer feature
