@@ -25,3 +25,4 @@
 0401. 🚀 perf: reduce image load time
 0566. 📚 docs: write FAQ section
 0976. ✨ feat: implement quiz timer feature
+0572. ✨ feat: add user authentication
