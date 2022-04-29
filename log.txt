@@ -26,3 +26,4 @@
 0566. 📚 docs: write FAQ section
 0976. ✨ feat: implement quiz timer feature
 0572. ✨ feat: add user authentication
+0171. 🐛 fix: fix broken CSS in mobile view
