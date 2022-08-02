@@ -37,3 +37,4 @@
 0749. ✨ feat: support email verification
 0258. 🐛 fix: prevent crash on empty input
 0826. 📚 docs: clarify environment setup
+0597. 🚀 perf: cache repeated calculations
