@@ -41,3 +41,4 @@
 0800. 🚀 perf: optimize database query for quiz results
 0001. 🚀 perf: cache repeated calculations
 0511. 🐛 fix: fix broken CSS in mobile view
+0615. 🐛 fix: correct typo in registration form
