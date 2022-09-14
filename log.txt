@@ -43,3 +43,4 @@
 0511. 🐛 fix: fix broken CSS in mobile view
 0615. 🐛 fix: correct typo in registration form
 0545. 🎨 style: standardize quote style
+0870. ♻️ chore: clean up unused files
