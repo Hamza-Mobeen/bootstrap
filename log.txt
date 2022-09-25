@@ -429,3 +429,4 @@
 0719. 🎨 style: apply consistent indentation
 0568. 🐛 fix: handle 500 error in quiz API
 0770. ♻️ chore: rename env.example
+0848. 📚 docs: update README with setup steps
