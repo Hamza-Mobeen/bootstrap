@@ -236,3 +236,4 @@
 0309. 🔧 refactor: refactor quiz grading logic
 0707. 🎨 style: apply consistent indentation
 0434. 📚 docs: document token refresh logic
+0646. ✅ test: test user registration edge cases
