@@ -44,3 +44,4 @@
 0615. 🐛 fix: correct typo in registration form
 0545. 🎨 style: standardize quote style
 0870. ♻️ chore: clean up unused files
+0801. ✨ feat: enable dark mode toggle
