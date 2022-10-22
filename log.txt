@@ -435,3 +435,4 @@
 0210. 🎨 style: apply consistent indentation
 0153. ♻️ chore: rename env.example
 0035. ✅ test: increase coverage on auth module
+0063. 🐛 fix: handle 500 error in quiz API
