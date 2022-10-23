@@ -436,3 +436,4 @@
 0153. ♻️ chore: rename env.example
 0035. ✅ test: increase coverage on auth module
 0063. 🐛 fix: handle 500 error in quiz API
+0646. ✅ test: test user registration edge cases
