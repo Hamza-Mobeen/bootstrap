@@ -241,3 +241,4 @@
 0506. 🐛 fix: handle 500 error in quiz API
 0474. ✅ test: add unit test for quiz service
 0950. 🎨 style: reformat files with black
+0548. 📚 docs: write FAQ section
