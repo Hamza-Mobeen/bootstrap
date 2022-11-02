@@ -242,3 +242,4 @@
 0474. ✅ test: add unit test for quiz service
 0950. 🎨 style: reformat files with black
 0548. 📚 docs: write FAQ section
+0897. 🐛 fix: prevent crash on empty input
