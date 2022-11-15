@@ -439,3 +439,4 @@
 0646. ✅ test: test user registration edge cases
 0218. 🔧 refactor: clean up auth middleware
 0675. 🔧 refactor: organize models into subfolders
+0107. 🐛 fix: prevent crash on empty input
