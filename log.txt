@@ -440,3 +440,4 @@
 0218. 🔧 refactor: clean up auth middleware
 0675. 🔧 refactor: organize models into subfolders
 0107. 🐛 fix: prevent crash on empty input
+0369. 🎨 style: standardize quote style
