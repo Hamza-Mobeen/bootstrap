@@ -244,3 +244,4 @@
 0548. 📚 docs: write FAQ section
 0897. 🐛 fix: prevent crash on empty input
 0586. 🎨 style: remove trailing whitespace
+0193. 🚀 perf: optimize database query for quiz results
