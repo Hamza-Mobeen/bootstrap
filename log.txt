@@ -447,3 +447,4 @@
 0273. 🚀 perf: reduce image load time
 0212. 🎨 style: standardize quote style
 0119. 📚 docs: improve code comments in utils
+0316. 🐛 fix: fix broken CSS in mobile view
