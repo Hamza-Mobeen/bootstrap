@@ -48,3 +48,4 @@
 0286. ✅ test: mock database connection in test suite
 0310. 🔧 refactor: refactor quiz grading logic
 0966. 📚 docs: improve code comments in utils
+0935. 📚 docs: update README with setup steps
