@@ -448,3 +448,4 @@
 0212. 🎨 style: standardize quote style
 0119. 📚 docs: improve code comments in utils
 0316. 🐛 fix: fix broken CSS in mobile view
+0265. 🎨 style: reformat files with black
