@@ -51,3 +51,4 @@
 0935. 📚 docs: update README with setup steps
 0300. ✨ feat: add export to CSV option
 0499. 🎨 style: reformat files with black
+0663. 🚀 perf: reduce image load time
