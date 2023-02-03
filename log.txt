@@ -253,3 +253,4 @@
 0944. ✨ feat: add user authentication
 0146. 🎨 style: apply consistent indentation
 0334. 🚀 perf: cache repeated calculations
+0686. 🎨 style: standardize quote style
