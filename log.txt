@@ -451,3 +451,4 @@
 0265. 🎨 style: reformat files with black
 0292. 📚 docs: clarify environment setup
 0409. 🚀 perf: lazy-load components
+0502. 📚 docs: update README with setup steps
