@@ -254,3 +254,4 @@
 0146. 🎨 style: apply consistent indentation
 0334. 🚀 perf: cache repeated calculations
 0686. 🎨 style: standardize quote style
+0084. 🐛 fix: handle 500 error in quiz API
