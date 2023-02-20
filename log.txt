@@ -56,3 +56,4 @@
 0456. 🚀 perf: optimize database query for quiz results
 0547. 📚 docs: write FAQ section
 0110. 🐛 fix: prevent crash on empty input
+0496. ✅ test: add integration test for /submit endpoint
