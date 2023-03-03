@@ -455,3 +455,4 @@
 0863. 🐛 fix: correct typo in registration form
 0137. 🎨 style: rename variables for clarity
 0068. 🐛 fix: fix null pointer exception on login
+0262. 🎨 style: remove trailing whitespace
