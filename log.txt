@@ -263,3 +263,4 @@
 0764. ✨ feat: add user authentication
 0207. 🐛 fix: prevent crash on empty input
 0529. 📚 docs: write FAQ section
+0603. 🐛 fix: fix broken CSS in mobile view
