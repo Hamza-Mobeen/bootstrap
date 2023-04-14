@@ -459,3 +459,4 @@
 0941. 🚀 perf: cache repeated calculations
 0220. 🐛 fix: fix null pointer exception on login
 0617. ✨ feat: support email verification
+0793. 📚 docs: clarify environment setup
