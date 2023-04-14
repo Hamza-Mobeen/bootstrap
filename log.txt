@@ -62,3 +62,4 @@
 0123. ✨ feat: implement quiz timer feature
 0914. ✅ test: test user registration edge cases
 0188. 🎨 style: apply consistent indentation
+0548. 📚 docs: write FAQ section
