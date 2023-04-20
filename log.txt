@@ -460,3 +460,4 @@
 0220. 🐛 fix: fix null pointer exception on login
 0617. ✨ feat: support email verification
 0793. 📚 docs: clarify environment setup
+0881. 🔧 refactor: split large controller into smaller functions
