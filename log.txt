@@ -65,3 +65,4 @@
 0548. 📚 docs: write FAQ section
 0869. ♻️ chore: bump dependencies
 0809. ♻️ chore: rename env.example
+0760. 🐛 fix: resolve issue with date parsing
