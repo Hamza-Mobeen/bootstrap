@@ -71,3 +71,4 @@
 0629. 🔧 refactor: organize models into subfolders
 0089. 🔧 refactor: remove redundant code blocks
 0084. 🐛 fix: handle 500 error in quiz API
+0546. 🐛 fix: fix null pointer exception on login
