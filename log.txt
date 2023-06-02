@@ -270,3 +270,4 @@
 0780. 📚 docs: add API usage examples
 0092. 🚀 perf: reduce image load time
 0819. 🚀 perf: reduce image load time
+0499. 🎨 style: reformat files with black
