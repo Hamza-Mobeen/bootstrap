@@ -470,3 +470,4 @@
 0801. ✨ feat: enable dark mode toggle
 0704. 🚀 perf: cache repeated calculations
 0236. 🔧 refactor: remove redundant code blocks
+0730. ✅ test: test user registration edge cases
