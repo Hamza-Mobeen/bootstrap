@@ -472,3 +472,4 @@
 0236. 🔧 refactor: remove redundant code blocks
 0730. ✅ test: test user registration edge cases
 0321. 🔧 refactor: organize models into subfolders
+0492. 🎨 style: remove trailing whitespace
