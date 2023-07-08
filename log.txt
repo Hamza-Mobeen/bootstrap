@@ -474,3 +474,4 @@
 0321. 🔧 refactor: organize models into subfolders
 0492. 🎨 style: remove trailing whitespace
 0507. 🔧 refactor: clean up auth middleware
+0543. ✨ feat: support email verification
