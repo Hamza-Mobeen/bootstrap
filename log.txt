@@ -77,3 +77,4 @@
 0281. ✨ feat: support email verification
 0144. ✅ test: increase coverage on auth module
 0899. 🚀 perf: cache repeated calculations
+0023. 📚 docs: clarify environment setup
