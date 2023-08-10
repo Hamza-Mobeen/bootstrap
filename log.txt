@@ -275,3 +275,4 @@
 0763. 🔧 refactor: organize models into subfolders
 0502. 📚 docs: update README with setup steps
 0477. 🐛 fix: fix broken CSS in mobile view
+0482. ✨ feat: add export to CSV option
