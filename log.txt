@@ -79,3 +79,4 @@
 0899. 🚀 perf: cache repeated calculations
 0023. 📚 docs: clarify environment setup
 0958. 🐛 fix: prevent crash on empty input
+0234. ♻️ chore: rename env.example
