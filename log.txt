@@ -284,3 +284,4 @@
 0846. ✨ feat: implement quiz timer feature
 0518. ✨ feat: support email verification
 0509. ♻️ chore: bump dependencies
+0914. ✅ test: test user registration edge cases
