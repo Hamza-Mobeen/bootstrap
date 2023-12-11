@@ -494,3 +494,4 @@
 0714. 📚 docs: improve code comments in utils
 0929. ✨ feat: support email verification
 0616. 🚀 perf: lazy-load components
+0512. 🚀 perf: reduce image load time
