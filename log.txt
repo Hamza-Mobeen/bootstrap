@@ -93,3 +93,4 @@
 0251. ♻️ chore: update .gitignore
 0313. 🎨 style: apply consistent indentation
 0623. 🎨 style: standardize quote style
+0719. 🎨 style: apply consistent indentation
