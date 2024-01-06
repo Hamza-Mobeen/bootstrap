@@ -497,3 +497,4 @@
 0512. 🚀 perf: reduce image load time
 0940. 📚 docs: document token refresh logic
 0462. ♻️ chore: update .gitignore
+0764. ✨ feat: add user authentication
