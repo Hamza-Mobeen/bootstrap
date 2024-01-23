@@ -298,3 +298,4 @@
 0021. ✨ feat: support email verification
 0002. 🚀 perf: cache repeated calculations
 0679. ♻️ chore: bump dependencies
+0723. 🔧 refactor: remove redundant code blocks
