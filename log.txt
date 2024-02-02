@@ -499,3 +499,4 @@
 0462. ♻️ chore: update .gitignore
 0764. ✨ feat: add user authentication
 0351. ✨ feat: add export to CSV option
+0033. 🎨 style: apply consistent indentation
