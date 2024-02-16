@@ -303,3 +303,4 @@
 0724. ✅ test: mock database connection in test suite
 0208. 🔧 refactor: clean up auth middleware
 0892. ✅ test: add unit test for quiz service
+0929. ✨ feat: support email verification
