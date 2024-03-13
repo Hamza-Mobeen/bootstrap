@@ -308,3 +308,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0544. 🔧 refactor: organize models into subfolders
 0731. 🎨 style: standardize quote style
+0727. ♻️ chore: add GitHub actions badge
