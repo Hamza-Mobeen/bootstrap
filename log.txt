@@ -504,3 +504,4 @@
 0950. 🎨 style: reformat files with black
 0841. 🚀 perf: optimize database query for quiz results
 0869. ♻️ chore: bump dependencies
+0223. 🔧 refactor: remove redundant code blocks
