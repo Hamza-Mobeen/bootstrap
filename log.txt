@@ -311,3 +311,4 @@
 0727. ♻️ chore: add GitHub actions badge
 0782. 📚 docs: improve code comments in utils
 0830. 🎨 style: apply consistent indentation
+0003. ✅ test: increase coverage on auth module
