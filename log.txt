@@ -313,3 +313,4 @@
 0830. 🎨 style: apply consistent indentation
 0003. ✅ test: increase coverage on auth module
 0430. 🐛 fix: fix null pointer exception on login
+0606. 📚 docs: improve code comments in utils
