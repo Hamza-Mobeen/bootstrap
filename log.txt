@@ -105,3 +105,4 @@
 0284. ✨ feat: implement quiz timer feature
 0565. ♻️ chore: add GitHub actions badge
 0247. 🎨 style: apply consistent indentation
+0950. 🎨 style: reformat files with black
