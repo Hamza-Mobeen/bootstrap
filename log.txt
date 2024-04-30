@@ -107,3 +107,4 @@
 0247. 🎨 style: apply consistent indentation
 0950. 🎨 style: reformat files with black
 0554. 📚 docs: improve code comments in utils
+0039. ✅ test: add integration test for /submit endpoint
