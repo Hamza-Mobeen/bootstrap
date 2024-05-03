@@ -510,3 +510,4 @@
 0365. 🚀 perf: reduce image load time
 0530. 🔧 refactor: refactor quiz grading logic
 0115. 🚀 perf: reduce image load time
+0170. ✅ test: increase coverage on auth module
