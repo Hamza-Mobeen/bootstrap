@@ -110,3 +110,4 @@
 0039. ✅ test: add integration test for /submit endpoint
 0361. ✨ feat: support email verification
 0922. 📚 docs: write FAQ section
+0898. 🐛 fix: fix broken CSS in mobile view
