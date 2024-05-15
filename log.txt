@@ -515,3 +515,4 @@
 0368. 🚀 perf: lazy-load components
 0551. 📚 docs: write FAQ section
 0564. 📚 docs: clarify environment setup
+0866. 📚 docs: add API usage examples
