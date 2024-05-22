@@ -324,3 +324,4 @@
 0291. 📚 docs: write FAQ section
 0401. 🚀 perf: reduce image load time
 0666. 🐛 fix: fix broken CSS in mobile view
+0788. 📚 docs: add API usage examples
