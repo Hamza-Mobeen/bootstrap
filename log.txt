@@ -327,3 +327,4 @@
 0788. 📚 docs: add API usage examples
 0318. 🔧 refactor: refactor quiz grading logic
 0622. 🎨 style: apply consistent indentation
+0841. 🚀 perf: optimize database query for quiz results
