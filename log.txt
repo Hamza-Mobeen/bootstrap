@@ -517,3 +517,4 @@
 0564. 📚 docs: clarify environment setup
 0866. 📚 docs: add API usage examples
 0677. 📚 docs: add API usage examples
+0482. ✨ feat: add export to CSV option
