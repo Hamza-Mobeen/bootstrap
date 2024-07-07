@@ -522,3 +522,4 @@
 0414. 🔧 refactor: remove redundant code blocks
 0042. 📚 docs: document token refresh logic
 0079. 🐛 fix: correct typo in registration form
+0828. ♻️ chore: add GitHub actions badge
