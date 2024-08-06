@@ -118,3 +118,4 @@
 0632. 🎨 style: remove trailing whitespace
 0066. 🔧 refactor: clean up auth middleware
 0219. ✅ test: increase coverage on auth module
+0806. 📚 docs: improve code comments in utils
