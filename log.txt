@@ -339,3 +339,4 @@
 0446. 🎨 style: apply consistent indentation
 0854. ♻️ chore: rename env.example
 0884. 📚 docs: clarify environment setup
+0114. ♻️ chore: update .gitignore
