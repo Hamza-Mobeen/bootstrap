@@ -534,3 +534,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0050. ✨ feat: enable dark mode toggle
 0330. ✅ test: test user registration edge cases
+0836. 🚀 perf: optimize database query for quiz results
