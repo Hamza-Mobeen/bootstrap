@@ -128,3 +128,4 @@
 0225. 🚀 perf: reduce image load time
 0342. 🚀 perf: cache repeated calculations
 0520. 🐛 fix: fix null pointer exception on login
+0823. ✨ feat: add user authentication
