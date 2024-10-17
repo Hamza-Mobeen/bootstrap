@@ -341,3 +341,4 @@
 0884. 📚 docs: clarify environment setup
 0114. ♻️ chore: update .gitignore
 0351. ✨ feat: add export to CSV option
+0379. ✨ feat: support email verification
