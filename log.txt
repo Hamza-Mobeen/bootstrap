@@ -541,3 +541,4 @@
 0449. ✅ test: add unit test for quiz service
 0651. ✨ feat: enable dark mode toggle
 0923. ✨ feat: support email verification
+0813. 🔧 refactor: organize models into subfolders
