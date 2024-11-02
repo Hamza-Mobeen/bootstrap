@@ -132,3 +132,4 @@
 0022. 📚 docs: document token refresh logic
 0610. 🚀 perf: lazy-load components
 0578. ✅ test: add integration test for /submit endpoint
+0312. ✨ feat: add user authentication
