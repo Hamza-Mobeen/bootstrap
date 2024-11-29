@@ -547,3 +547,4 @@
 0058. ♻️ chore: add GitHub actions badge
 0835. 🐛 fix: prevent crash on empty input
 0682. ♻️ chore: rename env.example
+0249. ✅ test: increase coverage on auth module
