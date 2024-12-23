@@ -138,3 +138,4 @@
 0077. ♻️ chore: rename env.example
 0159. 🚀 perf: lazy-load components
 0119. 📚 docs: improve code comments in utils
+0747. 🔧 refactor: clean up auth middleware
