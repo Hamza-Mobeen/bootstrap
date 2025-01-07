@@ -348,3 +348,4 @@
 0861. ♻️ chore: clean up unused files
 0842. 🎨 style: remove trailing whitespace
 0479. 🐛 fix: fix null pointer exception on login
+1000. ✅ test: increase coverage on auth module
