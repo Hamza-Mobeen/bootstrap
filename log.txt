@@ -350,3 +350,4 @@
 0479. 🐛 fix: fix null pointer exception on login
 1000. ✅ test: increase coverage on auth module
 0402. 🎨 style: reformat files with black
+0031. 📚 docs: document token refresh logic
