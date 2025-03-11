@@ -145,3 +145,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0732. ♻️ chore: add GitHub actions badge
 0114. ♻️ chore: update .gitignore
+0581. ✅ test: add integration test for /submit endpoint
