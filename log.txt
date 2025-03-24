@@ -559,3 +559,4 @@
 0890. 🔧 refactor: organize models into subfolders
 0645. 🐛 fix: resolve issue with date parsing
 0027. 📚 docs: clarify environment setup
+0825. 🔧 refactor: split large controller into smaller functions
