@@ -561,3 +561,4 @@
 0027. 📚 docs: clarify environment setup
 0825. 🔧 refactor: split large controller into smaller functions
 0390. 🎨 style: standardize quote style
+0823. ✨ feat: add user authentication
