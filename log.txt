@@ -150,3 +150,4 @@
 0544. 🔧 refactor: organize models into subfolders
 0729. 🔧 refactor: refactor quiz grading logic
 0464. 🎨 style: remove trailing whitespace
+0048. 📚 docs: update README with setup steps
