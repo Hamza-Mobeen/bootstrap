@@ -152,3 +152,4 @@
 0464. 🎨 style: remove trailing whitespace
 0048. 📚 docs: update README with setup steps
 0005. ✅ test: add unit test for quiz service
+0316. 🐛 fix: fix broken CSS in mobile view
