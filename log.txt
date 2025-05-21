@@ -155,3 +155,4 @@
 0316. 🐛 fix: fix broken CSS in mobile view
 0592. 📚 docs: add API usage examples
 0302. ✨ feat: implement quiz timer feature
+0871. ✅ test: add integration test for /submit endpoint
