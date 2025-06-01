@@ -157,3 +157,4 @@
 0302. ✨ feat: implement quiz timer feature
 0871. ✅ test: add integration test for /submit endpoint
 0368. 🚀 perf: lazy-load components
+0611. ✅ test: test user registration edge cases
