@@ -568,3 +568,4 @@
 0453. 🎨 style: standardize quote style
 0620. ✨ feat: implement quiz timer feature
 0332. 🎨 style: standardize quote style
+0856. 🐛 fix: fix null pointer exception on login
