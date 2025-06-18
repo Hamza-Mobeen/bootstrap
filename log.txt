@@ -161,3 +161,4 @@
 0535. 📚 docs: write FAQ section
 0645. 🐛 fix: resolve issue with date parsing
 0434. 📚 docs: document token refresh logic
+0835. 🐛 fix: prevent crash on empty input
