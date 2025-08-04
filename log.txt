@@ -576,3 +576,4 @@
 0820. 📚 docs: add API usage examples
 0939. 📚 docs: update README with setup steps
 0096. 🐛 fix: prevent crash on empty input
+0370. 🚀 perf: reduce image load time
