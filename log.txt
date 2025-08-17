@@ -173,3 +173,4 @@
 0337. 📚 docs: document token refresh logic
 0003. ✅ test: increase coverage on auth module
 0641. 📚 docs: write FAQ section
+0125. ✅ test: add integration test for /submit endpoint
