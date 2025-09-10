@@ -377,3 +377,4 @@
 0371. ✅ test: add integration test for /submit endpoint
 0994. 🚀 perf: reduce image load time
 0989. 📚 docs: write FAQ section
+0893. 🐛 fix: handle 500 error in quiz API
