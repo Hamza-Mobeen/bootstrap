@@ -585,3 +585,4 @@
 0326. 🚀 perf: cache repeated calculations
 0327. 🔧 refactor: split large controller into smaller functions
 0744. 🔧 refactor: remove redundant code blocks
+0053. ✅ test: increase coverage on auth module
