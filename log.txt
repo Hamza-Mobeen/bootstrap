@@ -587,3 +587,4 @@
 0744. 🔧 refactor: remove redundant code blocks
 0053. ✅ test: increase coverage on auth module
 0982. 🚀 perf: lazy-load components
+0582. ✨ feat: add export to CSV option
