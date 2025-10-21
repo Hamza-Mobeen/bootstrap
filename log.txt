@@ -381,3 +381,4 @@
 0580. ♻️ chore: bump dependencies
 0203. 🚀 perf: lazy-load components
 0611. ✅ test: test user registration edge cases
+0011. ✅ test: add unit test for quiz service
