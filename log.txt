@@ -188,3 +188,4 @@
 0906. 📚 docs: add API usage examples
 0357. ✅ test: add unit test for quiz service
 0214. 📚 docs: improve code comments in utils
+0702. ✨ feat: add user authentication
