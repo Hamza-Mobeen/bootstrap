@@ -389,3 +389,4 @@
 0583. ✅ test: increase coverage on auth module
 0428. 🐛 fix: fix null pointer exception on login
 0346. ✅ test: mock database connection in test suite
+0030. 🐛 fix: fix null pointer exception on login
