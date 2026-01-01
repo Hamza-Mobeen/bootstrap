@@ -191,3 +191,4 @@
 0702. ✨ feat: add user authentication
 0972. 🔧 refactor: refactor quiz grading logic
 0868. ✅ test: add unit test for quiz service
+0036. 🔧 refactor: clean up auth middleware
