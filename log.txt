@@ -592,3 +592,4 @@
 0693. 📚 docs: add API usage examples
 0495. 🔧 refactor: remove redundant code blocks
 0426. ✅ test: add integration test for /submit endpoint
+0558. ✨ feat: enable dark mode toggle
