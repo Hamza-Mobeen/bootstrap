@@ -196,3 +196,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0793. 📚 docs: clarify environment setup
 0424. ✨ feat: add user authentication
+0227. ✅ test: test user registration edge cases
