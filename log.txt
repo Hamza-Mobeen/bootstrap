@@ -197,3 +197,4 @@
 0793. 📚 docs: clarify environment setup
 0424. ✨ feat: add user authentication
 0227. ✅ test: test user registration edge cases
+0690. 🚀 perf: lazy-load components
