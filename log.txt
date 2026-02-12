@@ -394,3 +394,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0546. 🐛 fix: fix null pointer exception on login
 0777. 📚 docs: document token refresh logic
+0702. ✨ feat: add user authentication
